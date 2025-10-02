@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter Notebook for predicting the quality of Portuguese "Vinho Verde" wines using machine learning.
 
+> **Note:** This project was completed as part of a university coursework.
+
 ## Contents
 
 - Exploratory Data Analysis (EDA)

